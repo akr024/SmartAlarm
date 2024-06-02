@@ -96,7 +96,7 @@ This project is being implemented by students and constitutes a requisite for th
 
 ### Contributors
 
-* [Abhimanyu Kumar]([https://git.chalmers.se/kumarab](https://github.com/akr024))
+* [Abhimanyu Kumar](https://github.com/akr024)
 
 His personal contribution was primarily a mix of documentation work and coding work, but strongly inclined towards documentation work of the wiki page, articulating sprint deliverables, creating the user manual et cetera, while his coding work revolved around building the security feature of the app and ensuring other minor security measures (mentioned in the user manual).
 
